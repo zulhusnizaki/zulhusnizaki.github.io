@@ -255,7 +255,7 @@ blockquote p:last-child {
 }
 
 #profile .portrait {
-  background-image: url('../img/portrait.jpg');
+  background-image: url('../img/portrait.png');
   width: 200px;
   height: 200px;
   margin: 0 auto;
@@ -632,7 +632,7 @@ article {
 .card .card-image {
   display: block;
   position: relative;
-  max-height: 50px;
+  min-height: 100px;
 }
 
 .card h4 {

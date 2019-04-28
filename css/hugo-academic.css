@@ -632,7 +632,7 @@ article {
 .card .card-image {
   display: block;
   position: relative;
-  min-height: 100px;
+  max-height: 50px;
 }
 
 .card h4 {

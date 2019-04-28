@@ -498,60 +498,60 @@ article {
 }
 
 /*************************************************
- *  Publications
+ *  Course
  **************************************************/
 
-.pub-icon {
+.course-icon {
   color: #03396c;
   font-size: 0.81em;
   padding-top: 6px;
 }
 
-.pub-banner {
+.course-banner {
   max-width: 100%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
 }
 
-.pub .pub-title {
+.course .course-title {
   margin-bottom: 5px;
 }
 
-.pub .pub-authors {
+.course .course-lecture {
   font-style: italic;
   line-height: 30px; /* Match share bar line height. */
 }
 
-.pub .pub-row-heading {
+.course .course-row-heading {
   font-weight: bold;
 }
 
-.pub-list-item {
+.course-list-item {
   margin-bottom: 40px;
 }
 
-.pub-list-item .pub-abstract {
+.course-list-item .course-abstract {
   font-size: 1rem;
 }
 
-.pub-list-item .pub-authors {
+.course-list-item .course-lecture {
   line-height: normal;
   font-style: normal;
   font-size: 1rem;
   color: #3170A5;
 }
 
-.pub-list-item .pub-publication {
+.course-list-item .course-courses {
   color: #090;
   font-size: 1rem;
 }
 
-.pub-list-item .pub-links {
+.course-list-item .course-links {
   padding-top: 10px;
 }
 
-#container-publications {
+#container-courses {
   display: block;
   position: relative;
   overflow: hidden;
